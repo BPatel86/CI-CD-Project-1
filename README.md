@@ -1,4 +1,4 @@
-# 🚀 Complete Java CI/CD Pipeline with Jenkins, Maven, GitHub, and Tomcat on AWS
+# 🚀 Complete CI/CD Pipeline with Jenkins, Maven, GitHub, and Tomcat on AWS
 
 ![CI/CD Pipeline](https://github.com/BPatel86/Hello-World/blob/main/First%20CI:CD%20Project.png?raw=true)
 

@@ -1,8 +1,6 @@
-# 🚀 Complete CI/CD Pipeline with Jenkins, Maven, GitHub, and Tomcat on AWS
+# 🚀 Complete CI/CD Pipeline with Jenkins, Maven, GitHub, and Tomcat
 
-![CI/CD Pipeline](https://github.com/BPatel86/Hello-World/blob/main/First%20CI:CD%20Project.png?raw=true)
-
-This project implements a fully automated **CI/CD pipeline** for a Java web application, leveraging tools such as **Jenkins**, **Maven**, **GitHub**, and **Apache Tomcat** on **AWS EC2**. It automates the processes of building, testing, and deploying the application, providing a seamless flow from code commit to deployment.
+This project implements a fully automated **CI/CD pipeline** for a Java web application, leveraging tools such as **Jenkins**, **Maven**, **GitHub**, and **Apache Tomcat**. It automates the processes of building, testing, and deploying the application, providing a seamless flow from code commit to deployment.
 
 ---
 
